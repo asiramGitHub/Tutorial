@@ -1,0 +1,15 @@
+# English Language File
+# Items
+item.ingot_copper.name=Copper Ingot
+item.axe_copper.name=Copper Axe
+item.hoe_copper.name=Copper Hoe
+item.pickaxe_copper.name=Copper Pickaxe
+item.shovel_copper.name=Copper Shovel
+item.sword_copper.name=Copper Sword
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggings_copper.name=Copper Leggings
+item.boots_copper.name=Copper Boots
+
+# Blocks
+tile.block_copper.name=Copper Block
